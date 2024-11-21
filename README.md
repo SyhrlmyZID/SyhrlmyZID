@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! I'm Syahrul<br>💻 I'm Software Engineering<br>🌍 I'm Fullstack Developer<br>👾 I'm Prompt Engineer<br>👨‍💻 I'm Cyber Security
+👋 Hello! I'm Syahrul<br>💻 I'm Software Engineering<br>🌍 I'm Fullstack Developer<br>👾 I'm Prompt Engineer
 
 
 ## 🌐 Socials:
