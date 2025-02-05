@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! I'm Syahrul<br>💻 I'm Software Engineering<br>🌍 I'm Fullstack Developer<br>👾 I'm Prompt Engineer
+👋 Hello! I'm Syahrul<br> 💻 Prompt Engineer
 
 
 ## 🌐 Socials:
@@ -10,5 +10,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SyhrlmyZID&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
